@@ -1,0 +1,6 @@
+C:\Users\H\Source\Workspaces\ReportsApp\MazeRunner\PowerRunner\bin\Debug\PowerRunner.exe.config
+C:\Users\H\Source\Workspaces\ReportsApp\MazeRunner\PowerRunner\obj\Debug\PowerRunner.csprojResolveAssemblyReference.cache
+C:\Users\H\Source\Workspaces\ReportsApp\MazeRunner\PowerRunner\bin\Debug\PowerRunner.exe
+C:\Users\H\Source\Workspaces\ReportsApp\MazeRunner\PowerRunner\bin\Debug\PowerRunner.pdb
+C:\Users\H\Source\Workspaces\ReportsApp\MazeRunner\PowerRunner\obj\Debug\PowerRunner.exe
+C:\Users\H\Source\Workspaces\ReportsApp\MazeRunner\PowerRunner\obj\Debug\PowerRunner.pdb

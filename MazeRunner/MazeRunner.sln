@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MazeRunnerConsole", "MazeRunnerConsole\MazeRunnerConsole.csproj", "{1337C547-A256-4EF2-ADD5-FEB89EBFCA92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MazeRunnerLibrary", "MazeRunnerLibrary\MazeRunnerLibrary.csproj", "{EF514EFB-031A-4556-8DE9-966E22D9EDF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerRunner", "PowerRunner\PowerRunner.csproj", "{9AA00B13-DDD6-410A-962B-FF86C337EEB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1337C547-A256-4EF2-ADD5-FEB89EBFCA92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1337C547-A256-4EF2-ADD5-FEB89EBFCA92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1337C547-A256-4EF2-ADD5-FEB89EBFCA92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1337C547-A256-4EF2-ADD5-FEB89EBFCA92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF514EFB-031A-4556-8DE9-966E22D9EDF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF514EFB-031A-4556-8DE9-966E22D9EDF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF514EFB-031A-4556-8DE9-966E22D9EDF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF514EFB-031A-4556-8DE9-966E22D9EDF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AA00B13-DDD6-410A-962B-FF86C337EEB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AA00B13-DDD6-410A-962B-FF86C337EEB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AA00B13-DDD6-410A-962B-FF86C337EEB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AA00B13-DDD6-410A-962B-FF86C337EEB3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

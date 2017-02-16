@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="99db2e45-9fba-4613-9142-7dfe76b0f715" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://ingesup-maze.azurewebsites.net/WCF/powerGame.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="PowerGame.xsd" MetadataType="Schema" ID="bb6f90f2-611d-469d-94ae-29b921a55e13" SourceId="1" SourceUrl="http://ingesup-maze.azurewebsites.net/WCF/PowerGame.svc?xsd=xsd0" />
+    <MetadataFile FileName="PowerGame.wsdl" MetadataType="Wsdl" ID="45cefbdd-079c-417e-8e5a-6cf4d7b09a7e" SourceId="1" SourceUrl="http://ingesup-maze.azurewebsites.net/WCF/PowerGame.svc?wsdl" />
+    <MetadataFile FileName="PowerGame1.xsd" MetadataType="Schema" ID="be1a6442-e0cd-49f7-8500-26973a6f2894" SourceId="1" SourceUrl="http://ingesup-maze.azurewebsites.net/WCF/PowerGame.svc?xsd=xsd2" />
+    <MetadataFile FileName="PowerGame.disco" MetadataType="Disco" ID="d5a86681-11e6-4f91-a591-1496e064cceb" SourceId="1" SourceUrl="http://ingesup-maze.azurewebsites.net/WCF/PowerGame.svc?disco" />
+    <MetadataFile FileName="PowerGame2.xsd" MetadataType="Schema" ID="23842424-7119-42df-bb28-2e7a416c3321" SourceId="1" SourceUrl="http://ingesup-maze.azurewebsites.net/WCF/PowerGame.svc?xsd=xsd1" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

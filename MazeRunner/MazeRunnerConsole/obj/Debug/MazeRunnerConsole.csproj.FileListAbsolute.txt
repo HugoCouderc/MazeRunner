@@ -1,0 +1,6 @@
+C:\Users\H\Source\Workspaces\ReportsApp\MazeRunner\MazeRunnerConsole\bin\Debug\MazeRunnerConsole.exe.config
+C:\Users\H\Source\Workspaces\ReportsApp\MazeRunner\MazeRunnerConsole\bin\Debug\MazeRunnerConsole.exe
+C:\Users\H\Source\Workspaces\ReportsApp\MazeRunner\MazeRunnerConsole\bin\Debug\MazeRunnerConsole.pdb
+C:\Users\H\Source\Workspaces\ReportsApp\MazeRunner\MazeRunnerConsole\obj\Debug\MazeRunnerConsole.csprojResolveAssemblyReference.cache
+C:\Users\H\Source\Workspaces\ReportsApp\MazeRunner\MazeRunnerConsole\obj\Debug\MazeRunnerConsole.exe
+C:\Users\H\Source\Workspaces\ReportsApp\MazeRunner\MazeRunnerConsole\obj\Debug\MazeRunnerConsole.pdb
